@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sad and dreadful relation of a bloody and cruel murther committed by Mr. Thomas Low a minister, in Heart-Street, Covent-Garden, upon his own person, on the 29th. or 30th. of March. 1684. Together with the circumstances that attended it, as they appeared before the coroners inquest, who sate upon the dead corps on the 30th. of the aforesaid month, and what else happened remarkable thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59038</idno>
+            <idno type="STC">Wing S237</idno>
+            <idno type="STC">ESTC R219826</idno>
+            <idno type="EEBO-CITATION">99831273</idno>
+            <idno type="PROQUEST">99831273</idno>
+            <idno type="VID">35736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sad and dreadful relation of a bloody and cruel murther committed by Mr. Thomas Low a minister, in Heart-Street, Covent-Garden, upon his own person, on the 29th. or 30th. of March. 1684. Together with the circumstances that attended it, as they appeared before the coroners inquest, who sate upon the dead corps on the 30th. of the aforesaid month, and what else happened remarkable thereupon.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Langley Curtis,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Low, Thomas, d. 1684 --  Early works to 1800.</term>
+               <term>Suicide --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35736:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>The Sad and Dreadful RELATION OF A Bloody and Cruel MURTHER COMMITTED BY Mr. Thomas, Low A MINISTER, in <hi>Heart-Street, Covent-Garden,</hi> Upon his own Perſon, On the 29th. or 30th. of <hi>March.</hi> 1684.</head>
+            <head type="sub">Together with the circumſtances that at<g ref="char:EOLhyphen"/>tended it, as they appeared before the Coroners Inqueſt, who Sate upon the Dead Corps on the 30th. of the aforeſaid Month, and what elſe happened Remarkable thereupon.</head>
+            <p>STrange and Amazing will this Relation appear to the Rea<g ref="char:EOLhyphen"/>der, being as moſt conjecture the ſad effects of dire De<g ref="char:EOLhyphen"/>ſpair, the Narration of which take as followeth.</p>
+            <p>One <hi>Thomas Low</hi> Aged about 30 years, ſaid to be a <hi>Cheſhire</hi> Man deſcended of good Parentage, and known by many Gen<g ref="char:EOLhyphen"/>tlemen of Repute, to be ſome time paſt, a Man much Reſer<g ref="char:EOLhyphen"/>ved, and of ſuch Eſteem, that he had the Honour of being Chap<g ref="char:EOLhyphen"/>lain to divers Perſons of Quality; but of late being either Diſ<g ref="char:EOLhyphen"/>miſſed, or for ſome conſideration beſt known to himſelf, retire<g ref="char:EOLhyphen"/>ing, he took a Lodging up three pair of Stairs, at one Mr. <hi>Hu<g ref="char:EOLhyphen"/>berts</hi> in <hi>Heart-ſtreet</hi> in <hi>Covent-Garden,</hi> where he behaved him<g ref="char:EOLhyphen"/>ſelf very Civilly for the ſpace of three weeks, or thereabouts, but for ſome days paſt was perceived to be very Melancholy, ſeeming much Diſcontented, but made not known the cauſe thereof, (though it was demanded) when on <hi>Saturday</hi> laſt, in the Evening coming in, as his uſual manner was, after ſome diſ<g ref="char:EOLhyphen"/>courſe, he deſired Mrs. <hi>Hubert</hi> his Landlady to lend him a Bi<g ref="char:EOLhyphen"/>ble, and ſo went into his Chamber, (as ſhe and the reſt of the Family ſuppoſed) to Read or Meditate; So that that Night he was ſeen no more, nor heard, unleſs as uſually to walk about his Room, the next Morning the aforeſaid Gentlewoman want<g ref="char:EOLhyphen"/>ing her Book to carry to Church, ſent her Servant to require it,
+<pb facs="tcp:35736:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 26 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:35736:3"/>
+               <!-- PDF PAGE 27 -->but knocking at the Door, had no reply, nor heard any noiſe; wherefore ſuppoſing he might not be Stirring at that time, no further Inquiry was made, but after a while much wondering that according to his cuſtom he came not down, they begin<g ref="char:EOLhyphen"/>ing to ſuſpect ſomething more then ordinary had befallen him, and upon obſervation, perceiving ſome Signs of violence in the Chamber, The Door was upon Mature deliberation broken open, where they to their great conſternation found the afore<g ref="char:EOLhyphen"/>ſaid Mr. <hi>Low</hi> Murthered, being undreſſed, and as ſome affirm, a Napkin about his Head, having bedewed the Floor and Bed<g ref="char:EOLhyphen"/>cloaths with ſtreams of Blood, and by him a Raizor with which the violence had been done, according to all conjecture.</p>
+            <p>The wound was in his Throat, where there appeared to be two Gaſhes, one a little under his Chin, which as it was ſup<g ref="char:EOLhyphen"/>poſed ſtriking upon the Jaw, ſtayed the further proceeding of that Miſchievous Inſtrument; but the ſecond Gaſh was proſe<g ref="char:EOLhyphen"/>cuted with ſuch Violence as by the wound appears, that it cut the Jugulars, Wind-pipe, Wezand, and all the Ligaments to the Neck-bone on either ſide, being the depth of three Inches, the length of five, and the breadth of four: This fatal Accident being noiſed abroad, the Corroners Inqueſt on the 30th of <hi>March</hi> after Sermon ſate on the Corps, and upon Inquiry, finding the cir<g ref="char:EOLhyphen"/>cumſtance to be as Aforeſaid, or to the ſame effect, and having debated thereon, and ſeriouſly conſidered the whole matter, they returned their Verdict <hi>Felo de ſe,</hi> viz. That he had layed vio<g ref="char:EOLhyphen"/>lent hands upon himſelf, occaſioned through Diſcontent or Deſpair.</p>
+            <p>Though great Search was made to know whether he had left any Papers behind him, Importing the cauſe or Incitement to ſuch violence, yet we do not underſtand any paper was found, whereup<g ref="char:EOLhyphen"/>on orders was gvien for his Interment in the Burying-Ground of St. <hi>Pauls Covent-Garden,</hi> having been till that time expoſed to the veiw of ſuch as deſired to ſee him.</p>
+            <p>This ſad Diſaſter may well ſerve as a Sea-mark to prevent others from Ship-wracking themſelves upon thoſe dangerous Shoals that the Power of Darkneſs has contracted for the ruine of ſuch as are not ſecured by the Anchor of Faith, ſteadfaſtly fixed on the Rock of Salvation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Entred according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Langley Curtis, <hi>1684.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
